@@ -19,7 +19,9 @@ The IPCC assessments bring together scientific, technical and socio economic kno
 > [!IMPORTANT]
 > The problem is not that the knowledge does not exist. The problem is that using it is difficult
 
-<img src="https://www.ipcc.ch/report/ar6/wg1/downloads/figures/IPCC_AR6_WGI_TS_CCBox_1_Figure_1.png" height="400px">  <img src="https://www.ipcc.ch/report/ar6/wg1/downloads/figures/IPCC_AR6_WGI_Figure_10_20.png" height="400px">
+<p align="center"><img src="https://www.ipcc.ch/report/ar6/wg1/downloads/figures/IPCC_AR6_WGI_TS_CCBox_1_Figure_1.png" height="400px"></p> 
+
+<p align="center"><img src="https://www.ipcc.ch/report/ar6/wg1/downloads/figures/IPCC_AR6_WGI_Figure_10_20.png" height="400px"></p>
 
 These sample pages from IPCC reports show how much information can exist within a single scientific page
 
